@@ -1,0 +1,15 @@
+sudo apt-get update
+# For Sql-client
+sudo yum install https://dev.mysql.com/get/mysql80-community-release-el7-3.noarch.rpm
+sudo amazon-linux-extras install epel -y
+sudo yum install mysql-community-server
+
+# For python and related frameworks
+
+sudo apt-get install python3
+sudo apt-get install python3-flask
+sudo apt-get install python3-pymysql
+sudo apt-get install python3-boto3
+
+# for running application
+sudo python3 technical.py

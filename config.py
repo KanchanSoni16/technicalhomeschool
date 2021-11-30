@@ -1,0 +1,5 @@
+customhost = "technicalhomeschool.c5hxdfnlruu5.us-east-1.rds.amazonaws.com"
+customuser = "technical"
+custompass = "technical"
+customdb = "techincalhomeschool"
+customregion = "us-east-1"
